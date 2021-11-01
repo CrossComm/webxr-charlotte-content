@@ -1,0 +1,32 @@
+{
+    "markers": [
+        {
+            "mapImageUrl": "../../assets/images/levineMaps/WebXR_Brooklyn_basemap_case1_2_labels.jpg",
+            "patternUrl": "https://crosscomm.github.io/webxr-charlotte-content/markers/patterns/pattern-CF2040_N1.patt",
+            "modelUrl": "https://crosscomm.github.io/webxr-charlotte-content/models/Neighborhood1_CC.glb",
+            "pushPins": [
+                {
+                    "content": [
+                        {
+                            "name": "Neighborhood 1-E",
+                            "url" : "https://crosscomm.github.io/webxr-charlotte-content/images/N1_E_existing.jpg",
+                            "description": ""
+                        },
+                        {
+                            "name": "Neighborhood 1-E",
+                            "url": "https://crosscomm.github.io/webxr-charlotte-content/images/N1_E_proposed.jpg",
+                            "description": ""
+                        }
+                    ],
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "units": "meters"
+                    },
+                    "is360": true
+                }     
+            ]
+        }
+    ]
+}
