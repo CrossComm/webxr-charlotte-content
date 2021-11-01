@@ -1,7 +1,7 @@
 {
     "markers": [
         {
-            "mapImageUrl": "../../assets/images/levineMaps/WebXR_Brooklyn_basemap_case1_2_labels.jpg",
+            "mapImageUrl": "https://crosscomm.github.io/webxr-charlotte-content/markers/images/CF2040_basemap_N1_2s.jpg",
             "patternUrl": "https://crosscomm.github.io/webxr-charlotte-content/markers/patterns/pattern-CF2040_N1.patt",
             "modelUrl": "https://crosscomm.github.io/webxr-charlotte-content/models/Neighborhood1_CC.glb",
             "pushPins": [
